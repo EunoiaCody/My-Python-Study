@@ -17,5 +17,5 @@ while again==1:
     x=sympy.symbols(weizhishu)
     print("结果为",sympy.solve([shizi],[x]))
     again=input("需要再解一题吗？需要请输入1，不需要请输入0.")
-    if again==1:
+    if again==0:
         break
