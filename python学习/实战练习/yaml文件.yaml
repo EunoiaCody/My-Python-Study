@@ -1,0 +1,14 @@
+- type: vless
+  name: self-made-node.eunoiacody.workers.dev
+  server: self-made-node.eunoiacody.workers.dev
+  port: 443
+  uuid: e5c8782b-bdf0-4f6d-b119-4c3c302c2448
+  network: ws
+  tls: true
+  udp: false
+  sni: self-made-node.eunoiacody.workers.dev
+  client-fingerprint: chrome
+  ws-opts:
+    path: "/?ed=2048"
+    headers:
+      host: self-made-node.eunoiacody.workers.dev
