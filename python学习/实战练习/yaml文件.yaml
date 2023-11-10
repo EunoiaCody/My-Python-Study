@@ -1,4 +1,4 @@
-- type: vless
+  type: vless
   name: self-made-node.eunoiacody.workers.dev
   server: self-made-node.eunoiacody.workers.dev
   port: 443
